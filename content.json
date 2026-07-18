@@ -1,13 +1,13 @@
 {
   "_comment": "Contenu de la landing. Le Builder (Claude Code headless) réécrit CE fichier selon la mémoire de la venture — il ne touche pas au code React. Aperçu fidèle garanti.",
-  "brandName": "PawPlanner",
-  "tagline": "Gère toutes tes visites de pet-sitting depuis ton téléphone, sans commission.",
-  "subtitle": "Pour les pet-sitters solo en France qui jonglent entre carnet papier, SMS et Excel.\nAgenda partagé, rappels automatiques et carnet de santé par animal, réunis dans une seule appli.",
+  "brandName": "Corren",
+  "tagline": "Ton ledger, ta logique métier, zéro prise de tête comptable.",
+  "subtitle": "Pour les CTO et lead backend de scale-ups fintech et marketplaces.\nFini la reconciliation manuelle et les bugs de double-comptage : une source de vérité comptable programmable, multi-comptes et multi-devises.",
   "ctaLabel": "Rejoindre la liste d'attente",
   "bullets": [
-    "9,90 €/mois, 0 % de commission : tu gardes 100 % de tes revenus, contrairement aux plateformes qui prennent 15 à 25 %.",
-    "Onboarding en moins de 5 minutes : tu crées tes fiches et tu invites le proprio par lien SMS, sans prise de tête.",
-    "Places limitées pour les premiers inscrits : rejoins la liste d'attente avant le lancement."
+    "Intégration en moins d'une semaine : du time-to-value en jours, pas en mois.",
+    "Pas de DSL complexe à configurer : des templates de transactions prêts à l'emploi, testés en prod.",
+    "Cloud managé dès 199€/mois — places pilotes limitées aux 5 premiers clients."
   ],
   "footerNote": "assisté par IA"
 }
