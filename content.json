@@ -1,13 +1,13 @@
 {
   "_comment": "Contenu de la landing. Le Builder (Claude Code headless) réécrit CE fichier selon la mémoire de la venture — il ne touche pas au code React. Aperçu fidèle garanti.",
-  "brandName": "PawPlanner",
-  "tagline": "L'appli qui gère ton agenda, tes rappels et le carnet de santé de chaque animal — entre deux visites, en 2 clics.",
-  "subtitle": "Pour les pet-sitters solo en France qui jonglent entre carnet papier, SMS et Excel.\nFini les oublis : agenda partagé avec les proprios, rappels automatiques et santé animal centralisée.",
+  "brandName": "Corren",
+  "tagline": "Ton ledger, ta logique métier, zéro prise de tête comptable.",
+  "subtitle": "Pour les CTO et lead backend de scale-ups fintech et marketplaces.\nFini la reconciliation manuelle et les bugs de double-comptage : une seule source de vérité, multi-comptes et multi-devises.",
   "ctaLabel": "Rejoindre la liste d'attente",
   "bullets": [
-    "Onboarding en moins de 5 min et 9,90€/mois seulement — zéro commission, tu gardes 100% de tes revenus.",
-    "Pas une marketplace de plus : juste l'outil pro pour gérer ton activité, indépendant de toute mise en relation.",
-    "Places limitées pour les premiers inscrits — rejoins la waitlist avant le lancement."
+    "Intégration en moins d'une semaine : des transactions atomiques multi-devises en prod, pas dans 6 mois.",
+    "Pas un noyau open-source à configurer soi-même : un ledger prêt à l'emploi, testé en prod, sans dette technique à porter seul.",
+    "5 places pilotes seulement pour le lancement — réserve la tienne avant qu'elles ne partent."
   ],
   "footerNote": "assisté par IA"
 }
