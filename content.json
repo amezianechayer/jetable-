@@ -2,12 +2,12 @@
   "_comment": "Contenu de la landing. Le Builder (Claude Code headless) réécrit CE fichier selon la mémoire de la venture — il ne touche pas au code React. Aperçu fidèle garanti.",
   "brandName": "Ledgy",
   "tagline": "Ton ledger, tes règles. On gère la compta, toi tu codes le produit.",
-  "subtitle": "Pour les CTO et devs qui construisent marketplace, néobank ou app de paiement. Orchestre comptes virtuels, multi-devises et split payments via une API REST simple — sans langage maison ni contrat enterprise.",
-  "ctaLabel": "Obtenir ma clé API",
+  "subtitle": "Pour les devs et CTO qui construisent une marketplace, un néobank ou une app de paiement. Orchestre tes comptes virtuels et tes flux d'argent sans réécrire un système comptable.",
+  "ctaLabel": "Obtenir ma clé API en avant-première",
   "bullets": [
-    "Opérationnel en 1 jour : clé API en 2 minutes, zéro call commercial, doc et exemples prêts à copier-coller.",
-    "Pas de Numscript ni de langage custom : tu définis tes règles de mouvement d'argent en JSON simple.",
-    "Sandbox gratuit illimité — teste tout avant de payer, et rejoins les premiers builders de la waitlist."
+    "Opérationnel en 1 jour : API REST, règles en JSON simple, zéro langage maison à apprendre.",
+    "Multi-devises, split payments et webhooks dès le départ — self-service, sans call commercial.",
+    "Sandbox gratuit jusqu'à 1000 mouvements/mois. Rejoins la waitlist avant l'ouverture des places."
   ],
   "footerNote": "assisté par IA"
 }
